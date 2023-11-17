@@ -1,0 +1,117 @@
+[
+  {
+    "id": 0,
+    "name": "Chřest",
+    "description": "Chřest si řadu lidí podmanil svou jemnou vůní a stále je považován za něco speciálního, nejen kvůli krátké době sklizně. Bílý, zelený i fialový chřest oceňují všichni labužníci. V případě bílého a zeleného chřestu se nejedná o různé odrůdy: rozdíl spočívá pouze v metodě jejich pěstování. Chřestu dodává jeho charakteristickou chuť kyselina asparagová, což je jedna z aminokyselin.",
+    "nutrients": {
+      "base": "100 g",
+      "energy": {
+        "value": 18,
+        "unit": "kcal"
+      },
+      "fats": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "proteins": {
+        "value": 1.9,
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "value": 2.0,
+        "unit": "g"
+      },
+      "fiber": {
+        "value": 1.3,
+        "unit": "g"
+      }
+    },
+    "sourceUrl": "https://www.nzip.cz/clanek/1031-chrest"
+  },
+  {
+    "id": 1,
+    "name": "Cuketa",
+    "description": "Cuketa na talíři, ať už v podobě ratatouille, plněná, nebo jako příloha k rybám, je symbolem léta. Nejjemnější dužinu mají cukety o velikosti 15 až 20 cm. Sezóna cuket je v Česku od června do října. Na jaře jsou k dostání i cukety ze zdejších skleníků.",
+    "nutrients": {
+      "base": "100 g",
+      "energy": {
+        "value": 19,
+        "unit": "kcal"
+      },
+      "fats": {
+        "value": 0.4,
+        "unit": "g"
+      },
+      "proteins": {
+        "value": 1.6,
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "value": 2.2,
+        "unit": "g"
+      },
+      "fiber": {
+        "value": 1.1,
+        "unit": "g"
+      }
+    },
+    "sourceUrl": "https://www.nzip.cz/clanek/1022-cuketa"
+  },
+  {
+    "id": 2,
+    "name": "Lilek",
+    "description": "Lilek mezi ostatními druhy zeleniny vyniká svou nápadnou barvou, naopak jeho chuť je spíše nevýrazná. Pokud jej však správně připravíte a okořeníte, jistě oceníte jeho jemné a decentní aroma. Lilek i cuketa jsou typické přísady do francouzského zeleninového pokrmu ratatouille. Lilek je oblíbený i v orientální kuchyni, kde se připravuje například plněný.",
+    "nutrients": {
+      "base": "100 g",
+      "energy": {
+        "value": 17,
+        "unit": "kcal"
+      },
+      "fats": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "proteins": {
+        "value": 1.2,
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "value": 2.5,
+        "unit": "g"
+      },
+      "fiber": {
+        "value": 2.8,
+        "unit": "g"
+      }
+    },
+    "sourceUrl": "https://www.nzip.cz/clanek/1058-lilek-baklazan"
+  },
+  {
+    "id": 3,
+    "name": "Paprika",
+    "description": "Chuť různých odrůd papriky se pohybuje od sladké až po pálivou. Sladká paprika je k dostání v mnoha barvách, jíst ji můžete syrovou anebo ji tepelně upravovat. Velkou popularitu si v poslední době získaly pekelně pálivé chilli papričky. Papriky mohou být voskově bílé, zelené, žluté, oranžové, červené, hnědé, fialové až černé.",
+    "nutrients": {
+      "energy": {
+        "value": 19,
+        "unit": "kcal"
+      },
+      "fats": {
+        "value": 0.2,
+        "unit": "g"
+      },
+      "proteins": {
+        "value": 1.1,
+        "unit": "g"
+      },
+      "carbohydrates": {
+        "value": 2.9,
+        "unit": "g"
+      },
+      "fiber": {
+        "value": 3.6,
+        "unit": "g"
+      }
+    },
+    "sourceUrl": "https://www.nzip.cz/clanek/1019-paprika"
+  }
+]

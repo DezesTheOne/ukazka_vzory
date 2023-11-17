@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.app {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: auto 1fr;
+}
+
+aside {
+  background-color: #ddd;
+  padding: 1rem;
+}
+
+aside a {
+  display: block;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
+  color: #333;
+  text-decoration: none;
+}
+
+aside a:hover {
+  background-color: #bbb;
+}
+
+aside a.active {
+  background-color: #777;
+  color: #fff;
+}
+
+.container {
+  max-width: 640px;
+  padding: 0.5rem 1rem;
+}
+
+.panel {
+  user-select: none;
+  background-color: #ddd;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.box {
+  background-color: #ddd;
+  border-radius: 5px;
+  border: 1px solid #bbb;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.inline-list {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.inline-list > * {
+  flex: 1;
+}
+
+.panel--selected {
+  background-color: #777;
+  color: #fff;
+}
